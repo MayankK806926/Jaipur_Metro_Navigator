@@ -38,7 +38,7 @@ A comprehensive C++ application for navigating the Jaipur Metro system, featurin
 
 ### Building from Source
 ```bash
-git clone https://github.com/yourusername/jaipur-metro-navigator.git
+git clone https://github.com/MayankK806926/jaipur-metro-navigator.git
 cd jaipur-metro-navigator
 g++ -std=c++17 main.cpp -o jaipur_metro
 ```
