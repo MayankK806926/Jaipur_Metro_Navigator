@@ -5,6 +5,7 @@
 #include<algorithm>
 #include<iomanip>
 #include<cmath>
+#include<string>
 using namespace std;
 
 class Jaipur_Metro {
